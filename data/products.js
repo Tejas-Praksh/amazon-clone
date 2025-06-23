@@ -805,3 +805,7 @@ export const products = [
  return new Product(productDetails);
 });    //instead of new product giving too all products in class at last you can use map method 
 console.log(products);     */
+
+// later after repositeries done then if you change naything in project like
+return products;
+// you need to update at last see 
